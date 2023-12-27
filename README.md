@@ -35,6 +35,6 @@ Provide your contact information or a way for users to submit feedback.
 ## Project Status
 ### [28.12.2023]
 - **GitHub Page Creation**: Successfully set up the PredciConnect GitHub page.
-- **Branch Setup**: Established three branches - `main`, `development`, and `testing` for organized workflow.
+- **Branch Setup**: Established three branches - `main` (for development), `testing` and `production` for organized workflow.
 - **Next Steps**: Moving onto defining requirements (Step 1 of Phase 1) in our project development plan.
 
