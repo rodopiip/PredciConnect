@@ -18,10 +18,10 @@ Upon further development instructions will be Provided on how to clone the repos
 - Unceratin about which Pthon API framework and databases. A NoSQL databse is preferable. 
 
 ## Contributing
-Contributing to the project is no-yet-decided-on. Guidelines for submitting pull requests, reporting bugs, and suggesting enhancements are to be included further down in the development.
+Contributing to the project is not-yet-decided-on. Guidelines for submitting pull requests, reporting bugs, and suggesting enhancements are to be included further down in the development.
 
 ## Version Control
-There are 3 git branches: development, testing, and production.
+There are 3 git branches: `main` (for development), `testing` and `production`.
 
 ## Authors and Acknowledgments
 This idea for this project was born during the Christmas holidays of 2023, when my family members answered a lot of questions about our heritage.
